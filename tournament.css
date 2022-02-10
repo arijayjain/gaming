@@ -1,0 +1,52 @@
+body
+{
+    background:linear-gradient(#4287f5,#42f59b);
+}
+h1
+{
+    color:#42f59b;
+}
+h2
+{
+    color:red;
+}
+p1
+{
+    color:crimson;
+    font-family:yellowtail;
+}
+a
+{
+    text-decoration:none;
+    color:yellow;
+}
+button
+{
+    width:100%;
+    height:30%;
+    background-color:blue;
+}
+.menu
+{
+    list-style:none;
+    position: fixed;
+    top:0px;
+    z-index:10;
+    background-color:aquamarine;
+    width:100%;
+    margin-top:0px;
+  }
+  .list
+{
+    color:yellow;
+    padding-left:30px;
+    padding-right:30px;
+    font-size:20px;
+    display:inline;
+}
+.list:hover
+{
+    font:40px;
+    text-decoration: underline;
+    background-color: goldenrod;
+}
